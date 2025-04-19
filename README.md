@@ -1,6 +1,6 @@
 # 🌟 Alex Angulo's Portfolio
 ---
-![Portfolio Preview](/assets/portfolio-preview.jpg)
+![Portfolio Preview](./assets/portfolio-preview.jpg)
 🔗 **Live Site:** [alexanguloportfolio.netlify.app](https://alexanguloportfolio.netlify.app)
 ---
 ✨ Why settle for a boring résumé when you can **_glow up_** your dev journey?  
@@ -17,7 +17,7 @@ This is my personalized, React-powered portfolio — showing off not just what I
 - ✨ [Features](#-features)  
 - 🙌 [Credits](#-credits)  
 ## 📝 Description
-Say goodbye to cookie-cutter dev sites 👋 — **DevGlow** brings my work and story to life in a way that reflects who I am.  
+Say goodbye to cookie-cutter dev sites 👋 — My portfolio brings my work and story to life in a way that reflects who I am.  
 It opens with a vibrant **About Me** section, then flows through Projects, Resume, and Contact via a smooth, responsive navbar. Every section is tailored, minimal, and mobile-ready — no unnecessary fluff, just clean code and sharp content. Built with **React**, styled in **Tailwind CSS**, and deployed with 💯 intent.
 ## 💾 Installation
 Before launching locally, make sure you’ve got Node.js installed:  
