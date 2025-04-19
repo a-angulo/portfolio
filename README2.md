@@ -1,14 +1,12 @@
-# 🌟 DevGlow — The Portfolio That Pops!
-
-✨ Your dev work deserves more than a plain résumé — it deserves **DevGlow**.  
-This React-powered portfolio brings your projects, skills, and personality to life with smooth navigation, a colorful aesthetic, and all the vibes. Built with Vite + React + 💖.
-
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+# 🌟 Alex Angulo's Portfolio
 ---
-
+![DevGlow Preview](./assets/portfolio-preview.jpg)
+---
+✨ Why settle for a boring résumé when you can **_glow up_** your dev journey?  
+**DevGlow** is my personalized, React-powered portfolio — showing off not just what I’ve built, but how I build it. Smooth navigation, vibrant vibes, and a clean UI built with Vite + Tailwind + a dash of personality.
+---
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## 📚 Table of Contents
-
 - 📝 [Description](#-description)  
 - 💾 [Installation](#-installation)  
 - 🚀 [Usage](#-usage)  
@@ -17,50 +15,52 @@ This React-powered portfolio brings your projects, skills, and personality to li
 - 📄 [License](#-license)  
 - ✨ [Features](#-features)  
 - 🙌 [Credits](#-credits)  
-
----
-
 ## 📝 Description
-
-Say goodbye to cookie-cutter portfolios 👋 — **DevGlow** is a sleek, personal web app where your skills, projects, and contact info are just a click away. It opens on a vibrant **About Me** page and guides users through your Portfolio, Resume, and Contact sections using a responsive nav bar. Built with React, styled with Tailwind CSS.
-
----
-
+Say goodbye to cookie-cutter dev sites 👋 — **DevGlow** brings my work and story to life in a way that reflects who I am.  
+It opens with a vibrant **About Me** section, then flows through Projects, Resume, and Contact via a smooth, responsive navbar. Every section is tailored, minimal, and mobile-ready — no unnecessary fluff, just clean code and sharp content. Built with **React**, styled in **Tailwind CSS**, and deployed with 💯 intent.
 ## 💾 Installation
-
-Before firing it up locally, make sure Node.js is installed:  
-👉 [Download Node.js](https://nodejs.org)
-
-Then follow these steps in your terminal:
-
+Before launching locally, make sure you’ve got Node.js installed:  
+👉 [Get Node.js](https://nodejs.org)
+Then run:
 ```bash
-git clone git@github.com:your-username/devglow.git
+git clone git@github.com:alexangulo/devglow.git
 cd devglow
 npm install
 npm run build
 npm run start
-
+```
+## 🚀 Usage
+- Load the app in your browser at `http://localhost:3000`
+- Navigate between pages with the sticky nav bar
+- Click "Resume" to download my latest PDF
+- Use the contact form to say hey!
+## 🤝 How to Contribute
+This is a personal portfolio, so contributions aren’t open —  
+but if you’re curious how something works, feel free to fork it and tinker.
 ## 🧪 Tests
-To test the portfolio manually:
-
-✅ Application renders without errors
-✅ About Me is the default landing page
-✅ Navigation links work correctly
-✅ Header, footer, and layout are consistent
-✅ No console errors in dev tools
-
+✅ Application renders without crashing  
+✅ Defaults to About Me on load  
+✅ Navigation routes correctly  
+✅ No console errors or layout issues  
+✅ Fully responsive and keyboard accessible  
+## 📄 License
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+## ✨ Features
+- 💻 Fully responsive layout  
+- 🌙 Dark mode toggle  
+- 🧭 Sticky, animated navigation bar  
+- 📄 Resume download button  
+- 🖼️ Embedded About Me preview image  
+- 🎨 Tailwind-based design system  
+- ⚡ Fast load times with Vite  
 ## 🙌 Credits
-💻 Developed by Alex Angulo
-
-🌈 Background gradient vibes — handcrafted
-
-🧙‍♂️ Thanks to React, Vite, and Tailwind for the tools
-
-🤖 Special shoutout to ChatGPT for README wizardry
-
-### ✅ Final Steps:
-- Save your screenshot in:  
-  `./assets/about-preview.jpg` (create the folder if needed)
-- Save this content to your `README.md`
-
-Let me know if you want a GIF walkthrough or embed more page previews!
+🧠 Built with 💪 by Alex Angulo  
+🎨 UI/UX handcrafted with Tailwind  
+⚙️ Powered by React, Vite, and TypeScript (where applicable)  
+🤖 README powered by caffeine + ChatGPT
+### ✅ Final Setup Tips
+- Save your About Me screenshot to:  
+  `./assets/about-preview.jpg`  
+  _(create the folder if it doesn’t exist)_
+- For deployment, check out platforms like [Netlify](https://www.netlify.com/) or [Render](https://render.com/)
+- Want to show off a GIF walkthrough or add live previews for each section? Let me know and I’ll help generate it!
