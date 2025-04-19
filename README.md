@@ -1,12 +1,19 @@
 # 🌟 Alex Angulo's Portfolio
----
-![Portfolio Preview](/assets/about-preview.jpg)
+
+<p align="center">
+  <img src="about-preview.jpg" alt="Portfolio Preview" width="600" />
+</p>
+
 🔗 **Live Site:** [alexanguloportfolio.netlify.app](https://alexanguloportfolio.netlify.app)
+
 ---
+
 ✨ Why settle for a boring résumé when you can **_glow up_** your dev journey?  
-This is my personalized, React-powered portfolio — showing off not just what I’ve built, but how I build it. Smooth navigation, vibrant vibes, and a clean UI built with Vite + Tailwind + a dash of personality.
----
+This is my personalized, React-powered portfolio — showing off not just what I’ve built, but how I build it.  
+Smooth navigation, vibrant vibes, and a clean UI built with Vite + Tailwind + a dash of personality.
+
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## 📚 Table of Contents
 - 📝 [Description](#-description)  
 - 💾 [Installation](#-installation)  
@@ -16,6 +23,9 @@ This is my personalized, React-powered portfolio — showing off not just what I
 - 📄 [License](#-license)  
 - ✨ [Features](#-features)  
 - 🙌 [Credits](#-credits)  
+
+---
+
 ## 📝 Description
 Say goodbye to cookie-cutter dev sites 👋 — My portfolio brings my work and story to life in a way that reflects who I am.  
 It opens with a vibrant **About Me** section, then flows through Projects, Resume, and Contact via a smooth, responsive navbar. Every section is tailored, minimal, and mobile-ready — no unnecessary fluff, just clean code and sharp content. Built with **React**, styled in **Tailwind CSS**, and deployed with 💯 intent.

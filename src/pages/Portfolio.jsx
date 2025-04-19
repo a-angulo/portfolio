@@ -34,7 +34,7 @@ const individualProjects = [
   {
     title: "SkyCast-Module-9", 
     image: "/assets/weather-dashboard.png",
-    deployedLink: "https://placeholder3.netlify.app",
+    deployedLink: "https://skycast-mq3a.onrender.com/",
     repoLink: "https://github.com/a-angulo/SkyCast-Module-9"
   },
 ];
