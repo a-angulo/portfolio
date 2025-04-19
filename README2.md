@@ -1,9 +1,9 @@
 # 🌟 Alex Angulo's Portfolio
 ---
-![DevGlow Preview](./assets/portfolio-preview.jpg)
+![Portfolio Preview](./assets/portfolio-preview.jpg)
 ---
 ✨ Why settle for a boring résumé when you can **_glow up_** your dev journey?  
-**DevGlow** is my personalized, React-powered portfolio — showing off not just what I’ve built, but how I build it. Smooth navigation, vibrant vibes, and a clean UI built with Vite + Tailwind + a dash of personality.
+This is my personalized, React-powered portfolio — showing off not just what I’ve built, but how I build it. Smooth navigation, vibrant vibes, and a clean UI built with Vite + Tailwind + a dash of personality.
 ---
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## 📚 Table of Contents
