@@ -1,6 +1,6 @@
 # 🌟 Alex Angulo's Portfolio
 ---
-![Portfolio Preview](./assets/portfolio-preview.jpg)
+![Portfolio Preview](https://alexanguloportfolio.netlify.app/assets/about-preview.jpg)
 🔗 **Live Site:** [alexanguloportfolio.netlify.app](https://alexanguloportfolio.netlify.app)
 ---
 ✨ Why settle for a boring résumé when you can **_glow up_** your dev journey?  
