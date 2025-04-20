@@ -11,7 +11,7 @@ const groupProjects = [
   },
   {
     title: "Dad-A-Base",
-    image: "/assets/project3.png",
+    image: "/assets/Dadabase.png",
     deployedLink: "https://placeholder3.netlify.app",
     repoLink: "https://github.com/tlesner/Dad-A-Base"
   },
@@ -27,7 +27,7 @@ const groupProjects = [
 const individualProjects = [
   {
     title: "README-Genie_Module-7",
-    image: "/assets/project1.png",
+    image: "/assets/README.png",
     deployedLink: "https://app.screencastify.com/v2/manage/videos/Vi3gIUufNBKn5E4WHdKZ",
     repoLink: "https://github.com/a-angulo/README-Genie_Module-7"
   },
