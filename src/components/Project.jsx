@@ -2,7 +2,7 @@ import React from 'react';
 
 const Project = ({ title, image, deployedLink, repoLink, alt }) => {
   return (
-    <div className="bg-gray-800 rounded-lg overflow-hidden shadow-md p-4 text-center">
+    <div className="bg-fuchsia-300 rounded-lg overflow-hidden shadow-md p-4 text-center">
       <img
         src={image}
         alt={alt}

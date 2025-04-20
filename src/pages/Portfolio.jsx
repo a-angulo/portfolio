@@ -26,13 +26,13 @@ const groupProjects = [
 // Individual Projects
 const individualProjects = [
   {
-    title: "README-Genie_Module-7",
+    title: "README-Genie",
     image: "/assets/README.png",
     deployedLink: "https://app.screencastify.com/v2/manage/videos/Vi3gIUufNBKn5E4WHdKZ",
     repoLink: "https://github.com/a-angulo/README-Genie_Module-7"
   },
   {
-    title: "SkyCast-Module-9", 
+    title: "SkyCast", 
     image: "/assets/weather-dashboard.png",
     deployedLink: "https://skycast-mq3a.onrender.com/",
     repoLink: "https://github.com/a-angulo/SkyCast-Module-9"
