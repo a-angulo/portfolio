@@ -1,14 +1,34 @@
 import React from 'react';
 
-const Project = ({ title, image, deployedLink, repoLink }) => (
-  <div className="bg-white rounded-lg shadow-md p-4 max-w-xs mx-auto text-center hover:shadow-xl transition">
-    <img src={image} alt={title} className="rounded-md mb-3 w-full h-48 object-cover" />
-    <h3 className="text-lg font-semibold mb-2">{title}</h3>
-    <div className="space-x-4">
-      <a href={deployedLink} target="_blank" className="text-blue-500 hover:underline">Live</a>
-      <a href={repoLink} target="_blank" className="text-gray-600 hover:underline">Repo</a>
+const Project = ({ title, image, deployedLink, repoLink, alt }) => {
+  return (
+    <div className="bg-gray-800 rounded-lg overflow-hidden shadow-md p-4 text-center">
+      <img
+        src={image}
+        alt={alt}
+        className="w-full h-48 object-cover rounded"
+      />
+      <h4 className="text-xl font-semibold mt-4">{title}</h4>
+      <div className="mt-2 space-x-4">
+        <a
+          href={deployedLink}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-400 hover:underline"
+        >
+          Live
+        </a>
+        <a
+          href={repoLink}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-400 hover:underline"
+        >
+          GitHub
+        </a>
+      </div>
     </div>
-  </div>
-);
+  );
+};
 
 export default Project;
