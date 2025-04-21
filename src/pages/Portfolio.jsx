@@ -12,7 +12,7 @@ const groupProjects = [
   {
     title: "Dad-A-Base",
     image: "/assets/Dadabase.png",
-    deployedLink: "https://placeholder3.netlify.app",
+    deployedLink: "https://dad-a-base.onrender.com/",
     repoLink: "https://github.com/tlesner/Dad-A-Base"
   },
   {
