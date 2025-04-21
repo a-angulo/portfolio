@@ -2,13 +2,13 @@ import React from 'react';
 
 const Project = ({ title, image, deployedLink, repoLink, alt }) => {
   return (
-    <div className="bg-fuchsia-100 rounded-lg overflow-hidden shadow-md p-4 text-center">
+    <div className="bg-white rounded-lg overflow-hidden shadow-md p-4 text-center">
       <img
         src={image}
         alt={alt}
         className="w-full h-48 object-cover rounded"
       />
-      <h4 className="text-xl font-semibold mt-4">{title}</h4>
+      <h4 className="text-xl font-semibold mt-4 text-purple-400">{title}</h4>
       <div className="mt-2 space-x-4">
         <a
           href={deployedLink}
