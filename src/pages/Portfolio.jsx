@@ -17,7 +17,7 @@ const groupProjects = [
   },
   {
     title: "CareerCrush",
-    image: "/assets/project2.png",
+    image: "/assets/careercrush.png",
     deployedLink: "https://careercrush.onrender.com/",
     repoLink: "https://github.com/JoseMCabreraT/CareerCrush/"
   },
