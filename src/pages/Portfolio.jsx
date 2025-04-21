@@ -28,7 +28,7 @@ const individualProjects = [
   {
     title: "README-Genie",
     image: "/assets/README.png",
-    deployedLink: "https://app.screencastify.com/v2/manage/videos/Vi3gIUufNBKn5E4WHdKZ",
+    deployedLink: "https://drive.google.com/file/d/1hNId33EJUfMqtDihU41KuovRGO3sB4Bh/view?usp=sharingLinks to an external site.",
     repoLink: "https://github.com/a-angulo/README-Genie"
   },
   {
@@ -36,6 +36,12 @@ const individualProjects = [
     image: "/assets/weather-dashboard.png",
     deployedLink: "https://skycast-mq3a.onrender.com/",
     repoLink: "https://github.com/a-angulo/SkyCast"
+  },
+  {
+    title: "BossBase", 
+    image: "/assets/bossbase.png",
+    deployedLink: "https://drive.google.com/file/d/1gFQL00nRQ5vQaxH2zgpWghlP-YS1_HOs/view/",
+    repoLink: "https://github.com/a-angulo/BossBaset"
   },
 ];
 

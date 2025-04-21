@@ -2,12 +2,12 @@ import React from 'react';
 
 const Resume = () => (
   <section className="max-w-3xl mx-auto px-4 py-10">
-    <h2 className="text-3xl font-bold text-center mb-6">Resume</h2>
+    <h2 className="text-3xl font-bold text-center text-white mb-6">Resume</h2>
     <div className="text-center mb-6">
       <a
         href="/assets/resume.pdf"
         download
-        className="text-blue-600 underline hover:text-blue-800"
+        className="text-white underline hover:text-shadow-purple-950 transition duration-300"
       >
         Download Resume
       </a>
